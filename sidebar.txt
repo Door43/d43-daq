@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[daq:home|Door43 (daq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-daq|d43-daq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-daq/archive/master.zip|d43-daq.zip]]
+
+**Recent Changes**
+{{changes>ns = daq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/daq|Ethnologue data]]
+
